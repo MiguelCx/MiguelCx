@@ -1,0 +1,4 @@
+- 👋 Ola, meu nome é @MiguelCx
+- 👀 Meu interesse é programar linguagens...
+- 🌱 Estou aprendendo a programar linguagens de JavaScript e Scratch recentemente
+- 🦖 
